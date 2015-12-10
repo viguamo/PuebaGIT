@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:PuebaGIT"
         xmlns:dxn="http://schemas.devexpress.com/winfx/2008/xaml/navbar" x:Class="MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="359.915" Width="620.185">
+        Title="MainWindow" Height="354.957" Width="656.871">
     <Grid>
 
         <dxn:NavBarControl>
